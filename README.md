@@ -1,5 +1,6 @@
 This is a Glitch BETA project
 =========================
+This project is an API that parses requests headers and returns IP Address, language and OS
 
 View project [HERE](https://my-request-header-parser.glitch.me/)
 
@@ -7,7 +8,7 @@ View project [HERE](https://my-request-header-parser.glitch.me/)
 
 Find out more [about Glitch](https://glitch.com/about).
 
-Made by and Aleczander Jordan
+Made by Aleczander Jordan
 -------------------
 
 \ ゜o゜)ノ
